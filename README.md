@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Power BI,Javascript,Angular.
 - 💞️ I’m looking to collaborate on ReactJS,Angular js.
 - 📫 www.linkedin.com/in/devika-p06
+- Currently working on freelancing project on Student Mangaemet system using MERN Stack.
   
 
 <!---
